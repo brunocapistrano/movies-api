@@ -2,6 +2,8 @@
 
 API de filmes construída com Django 6.0.
 
+Objetivo aqui é não usar Django Rest Framework e Serializer.
+
 ## Requisitos
 
 - Python 3.14+
